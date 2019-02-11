@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaehuehe.zenetl.com/sitemap.xml
